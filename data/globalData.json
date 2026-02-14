@@ -1,77 +1,148 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Steel City Orthodontics",
+  "domain": "steelcityorthodontics.com",
+  "email": "info@steelcityorthodontics.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(412) 655-7555",
+    "href": "tel:+14126557555",
+    "aria": "4 1 2, 6 5 5, 7 5 5 5"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "South Park",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "1201 Broughton Rd",
+        "suite": "Ste 102",
+        "city_state": "Pittsburgh, PA 15236",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(412) 655-7555",
+        "href": "tel:+14126557555"
       },
-      "email": "info@mandtortho.com",
-      "hours": [
-        {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
-        }
-      ],
+      "email": "info@steelcityorthodontics.com",
+      "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=1201+Broughton+Rd+Ste+102+Pittsburgh+PA+15236",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "McMurray",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "628 E McMurray Rd",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "McMurray, PA 15317",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-80.0802506",
+          "latitude": "40.2819095"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(724) 941-9600",
+        "href": "tel:+17249419600"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@steelcityorthodontics.com",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=628+E+McMurray+Rd+McMurray+PA+15317",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Washington",
+      "address": {
+        "street": "2112 North Franklin Drive",
+        "suite": "",
+        "city_state": "Washington, PA 15301",
+        "coordinates": {
+          "longitude": "-80.2793474",
+          "latitude": "40.1598555"
+        }
+      },
+      "phone": {
+        "number": "(724) 222-1063",
+        "href": "tel:+17242221063"
+      },
+      "email": "info@steelcityorthodontics.com",
+      "hours": [],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=2112+North+Franklin+Drive+Washington+PA+15301",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Charleroi",
+      "address": {
+        "street": "17 Arentzen Boulevard",
+        "suite": "Ste 102",
+        "city_state": "Charleroi, PA 15022",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "phone": {
+        "number": "(724) 483-4808",
+        "href": "tel:+17244834808"
+      },
+      "email": "info@steelcityorthodontics.com",
+      "hours": [],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=17+Arentzen+Boulevard+Ste+102+Charleroi+PA+15022",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Montour Run (New)",
+      "address": {
+        "street": "1000 Cliff Mine Road",
+        "suite": "Suite 100, Park West One Building",
+        "city_state": "Pittsburgh, PA 15275",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "phone": {
+        "number": "(412) 264-5755",
+        "href": "tel:+14122645755"
+      },
+      "email": "info@steelcityorthodontics.com",
+      "hours": [],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=1000+Cliff+Mine+Road+Suite+100+Pittsburgh+PA+15275",
+        "label": "Get Directions"
+      },
+      "special_note": "Montour Run location now open (as of June 19, 2025). Alternate phone: (412) 787-1133."
+    },
+    {
+      "title": "Weirton (Dr. John Fishell)",
+      "address": {
+        "street": "485 Colliers Way",
+        "suite": "Ste E",
+        "city_state": "Weirton, WV 26062",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "phone": {
+        "number": "(304) 723-3276",
+        "href": "tel:+13047233276"
+      },
+      "email": "info@steelcityorthodontics.com",
+      "hours": [],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=485+Colliers+Way+Ste+E+Weirton+WV+26062",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +165,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "1201 Broughton Rd Ste 102, Pittsburgh, PA 15236",
+        "href": "https://www.google.com/maps/search/?api=1&query=1201+Broughton+Rd+Ste+102+Pittsburgh+PA+15236",
+        "label": "View 1201 Broughton Rd Ste 102, Pittsburgh, PA 15236 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(412) 655-7555",
+        "href": "tel:+14126557555",
+        "label": "Call (412) 655-7555",
         "new_window": false
       }
     ],
     "announcement": {
-      "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "icon": "tooth-stars",
+      "label": "Montour Run location now open",
+      "text": "Big news: our Montour Run location is open and seeing patients. Click to learn more or schedule a complimentary consultation.",
+      "mobile_text": "Montour Run now open",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Montour Run Location Now Open",
+        "text": "Our Montour Run office is open and accepting patients as of June 19, 2025. Same great Steel City Orthodontics team and services in a convenient new space. Request a consultation online or call (412) 264-5755."
       }
     }
   },
@@ -150,7 +221,19 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://business.facebook.com/Steel-City-Orthodontics-309394369777964/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/steelcityortho/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://twitter.com/SteelCityOrtho1",
+        "icon": "twitter"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCM_w9o6YZ7KwNsHWNKLHbCA",
         "icon": "youtube"
       }
     ],
@@ -158,12 +241,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Steel City Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://steelcityorthodontics.com/wp-content/uploads/2019/03/sco-web-logo.png",
       "webp": "",
-      "alt": "",
+      "alt": "Steel City Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +254,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "New Patients Hero"
+      }
     }
   }
 }
