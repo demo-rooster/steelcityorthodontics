@@ -4,69 +4,69 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 187,
+          "green": 156,
+          "blue": 55,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#bb9c37",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "luminance": 0.35,
+          "luminancePercent": "35%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.92,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 191,
+          "green": 154,
+          "blue": 33,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#bf9a21",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "luminance": 0.34,
+          "luminancePercent": "34%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.86,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 191,
+          "green": 154,
+          "blue": 33,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#bf9a21",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "luminance": 0.34,
+          "luminancePercent": "34%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.86,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 108,
+          "green": 111,
+          "blue": 112,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#6C6F70",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
+          "luminance": 0.16,
+          "luminancePercent": "16%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "contrastRatio": 5.07,
+          "wcagRating": "AA"
         }
       },
       {
@@ -77,7 +77,7 @@
           "blue": 255,
           "alpha": 1
         },
-        "hex": "#FFFFFF",
+        "hex": "#ffffff",
         "accessibility": {
           "luminance": 1,
           "luminancePercent": "100%",
@@ -123,17 +123,17 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 128,
+          "green": 103,
+          "blue": 23,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#806717",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.14,
+          "luminancePercent": "14%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
+          "contrastRatio": 5.43,
           "wcagRating": "AA"
         }
       }
@@ -141,76 +141,76 @@
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'var(--h2_typography-font-family)', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'PT Sans', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://steelcityorthodontics.com/wp-content/uploads/2019/03/sco-web-logo.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://steelcityorthodontics.com/wp-content/uploads/2019/03/sco-web-logo.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
+          "hex": "#666c72",
+          "luminosity_percent": 15,
+          "count": 19
         },
         {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#676d73",
+          "luminosity_percent": 15,
+          "count": 14
         },
         {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#ffca37",
+          "luminosity_percent": 64,
+          "count": 8
         },
         {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
+          "hex": "#676c72",
+          "luminosity_percent": 15,
+          "count": 6
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
+          "hex": "#ffcc38",
+          "luminosity_percent": 65,
+          "count": 5
         },
         {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#ffcb37",
+          "luminosity_percent": 64,
+          "count": 5
         },
         {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#686e74",
+          "luminosity_percent": 15,
+          "count": 4
         },
         {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
+          "hex": "#ffca38",
+          "luminosity_percent": 64,
+          "count": 4
         },
         {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#ffcb38",
+          "luminosity_percent": 64,
+          "count": 4
         },
         {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#676d72",
+          "luminosity_percent": 15,
+          "count": 4
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#666c72",
+      "avg_luminosity": 32.5,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://steelcityorthodontics.com/wp-content/uploads/2019/03/cropped-sco-site-icon-2-32x32.png"
   }
 }
